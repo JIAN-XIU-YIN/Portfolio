@@ -50,7 +50,18 @@ footer{
 	padding-top: 80px;
 }
 
-.fpink,#fpink{
+#fpink {
+    color: #FCA98F;
+	transition: 0.5s;
+	text-decoration: none;
+}
+#fpink:hover {
+    color: #333;
+	transition: 0.5s;
+	text-decoration: none;
+}
+
+.fpink{
 	color: #FCA98F;
 }
 .fred{
