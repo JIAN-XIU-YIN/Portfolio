@@ -49,7 +49,7 @@ footer{
 	text-align: justify;
 	padding-top: 80px;
 }
-
+/*======================================*/
 #fpink {
     color: #FCA98F;
 	transition: 0.5s;
@@ -60,7 +60,7 @@ footer{
 	transition: 0.5s;
 	text-decoration: none;
 }
-
+/*======================================*/
 .fpink{
 	color: #FCA98F;
 }
@@ -79,7 +79,7 @@ footer{
 .f100{
 	font-size: 80px;
 }
-
+/*======================================*/
 .btn-danger {
   color: #fff;
   background-color: #ee7d62;
@@ -376,7 +376,7 @@ footer{
 	background-color: #fff;
 	border: #000 1px solid;
 }
-
+/*======================================*/
 .carousel-text{
 	background-color: #000;
 	color: #fff;
@@ -393,7 +393,6 @@ footer{
 	border-radius: 2rem;
 	display: inline-block;
 }
-
 .web-109-button {
 	padding: 0.375rem 0.75rem;
 	border-radius: 0.25rem;
@@ -510,7 +509,7 @@ footer{
 	margin: 10px;
 	font-size: 40px;
 }
-
+/*======================================*/
 .experience{
 	display: block;
 	align-items: center;
@@ -560,7 +559,7 @@ footer{
 		margin-left: 0px;
 	}
 	.project-img{
-		width: 92vw;
+		width: 70vw;
 		margin-left: 0px;		
 	}
 	.project-page{
@@ -577,9 +576,6 @@ footer{
 	.pr-50{
 		padding-right: 20px;
 	}
-	/* #works-project{
-		max-width: 95%;
-	} */
 	.graphic-img{
 		width: 75vw;
 		margin-left: 0px;
@@ -601,7 +597,7 @@ footer{
 	}
 	.software-img{
 		width: 9vw;
-		margin: 10px;
+		margin: 5px;
 	}
 	.goblin{
 		width: 50vw;
@@ -616,5 +612,9 @@ footer{
 	.ui-comic-button-next{
 		padding: 0.6rem 0.8rem;
 		border-radius: 2rem;
+	}
+	.web-109-button {
+		padding: 0.25rem 0.45rem;
+		border-radius: 0.25rem;
 	}
 }
