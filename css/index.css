@@ -246,7 +246,7 @@ footer{
 	background-image: url(../images/works/photography.jpeg);
 }
 .works-img6{
-	background-image: url(../images/works-other/3D/rhino-2022-dog.jpg);
+	background-image: url(../images/works-3D/Rhino/04.狗狗/04.狗狗\ \(1\).jpg);
 }
 /*======================================*/
 .web-bigbox{
@@ -289,10 +289,6 @@ footer{
 	width: 90%;
 }
 /*======================================*/
-.project-bigbox{
-	column-count: 4;
-	column-gap: 0;
-}
 .project-box{
 	padding: 8px;
 	transition: 0.5s;
@@ -493,6 +489,21 @@ footer{
 	width: 8vw;
 }
 /*======================================*/
+.works-3D-box>img{
+	display: block;
+	width: 70%;
+	margin: auto;
+	height: auto;
+	border-radius: 5px;
+}
+.works-3D-box-w>img{
+	display: block;
+	width: 100%;
+	margin: auto;
+	height: auto;
+	border-radius: 5px;
+}
+/*======================================*/
 .skill{
 	display: flex;
 	justify-content: space-between;
@@ -559,7 +570,7 @@ footer{
 		margin-left: 0px;
 	}
 	.project-img{
-		width: 70vw;
+		width: 100%;
 		margin-left: 0px;		
 	}
 	.project-page{
@@ -616,5 +627,9 @@ footer{
 	.web-109-button {
 		padding: 0.25rem 0.45rem;
 		border-radius: 0.25rem;
+	}
+	.works-3D-box>img{
+		width: 100%;
+		margin-top: 3vw;
 	}
 }
