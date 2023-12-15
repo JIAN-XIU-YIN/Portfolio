@@ -632,4 +632,19 @@ footer{
 		width: 100%;
 		margin-top: 3vw;
 	}
+	.h3-sm{
+		font-size: 2.5rem;
+	}
+}
+/*======================================*/
+@media (max-width: 450px) {
+	.h3-sm{
+		font-size: 1.35rem;
+	}
+}
+/*======================================*/
+@media (max-width: 380px) {
+	.h3-sm{
+		font-size: 1rem;
+	}
 }
