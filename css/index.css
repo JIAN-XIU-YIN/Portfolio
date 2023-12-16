@@ -47,7 +47,7 @@ footer{
 }
 .alignj{
 	text-align: justify;
-	padding-top: 80px;
+	padding-top: 50px;
 }
 /*======================================*/
 #fpink {
@@ -200,9 +200,10 @@ footer{
 }
 /*======================================*/
 .btn-view{
-	font-size: 24px;
-	padding: 15px 35px;
+	font-size: 1.25rem;
+	padding: 1rem 2rem;
 	border-radius: 100px;
+	margin: 0px 10px 20px 0px;
 }
 .YING-img{
 	width: 90%;
@@ -246,11 +247,14 @@ footer{
 	background-position: center;
 }
 .works-img5{
+	/* background-image: url(../images/works-photography/photography/7.李工坊/02.JPG); */
 	background-image: url(../images/works-photography/photography/6.期末照片-秋天野餐/怡玟/12.jpg);
 	background-position: center;
+	/* background-image: url(../images/works-photography/photography/4.五種燈光/model\ 1/04.jpg); */
 }
 .works-img6{
 	background-image: url(../images/works-3D/Maya/02.仙人掌.jpg);
+	/* background-position: center; */
 }
 /*======================================*/
 .web-bigbox{
@@ -588,8 +592,7 @@ footer{
 	}
 	.YING-img{
 		width: 100%;
-		margin-left: 0px;
-		margin-top: 50px;
+		margin: auto;
 	}
 	.contact{
 		margin-top: 10px;
