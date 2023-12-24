@@ -664,18 +664,36 @@ footer{
 		margin-top: 3vw;
 	}
 	.h3-sm{
-		font-size: 2.5rem;
+		font-size: 2.4rem;
 	}
 }
 /*======================================*/
-@media (max-width: 450px) {
+@media (max-width: 680px) {
 	.h3-sm{
-		font-size: 1.35rem;
+		font-size: 2rem;
+	}
+}
+/*======================================*/
+@media (max-width: 600px) {
+	.h3-sm{
+		font-size: 1.8rem;
+	}
+}
+/*======================================*/
+@media (max-width: 520px) {
+	.h3-sm{
+		font-size: 1.4rem;
 	}
 }
 /*======================================*/
 @media (max-width: 380px) {
 	.h3-sm{
-		font-size: 0.8rem;
+		font-size: 1.2rem;
+	}
+}
+/*======================================*/
+@media (max-width: 320px) {
+	.h3-sm{
+		font-size: 1rem;
 	}
 }
